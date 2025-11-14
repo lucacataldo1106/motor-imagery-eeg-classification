@@ -79,5 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 
 For questions, feedback, or collaboration opportunities:  
+**Author**: Luca Cataldo
 **Email**: luca.cataldo1106@gmail.com  
 **GitHub**: [@lucacataldo1106](https://github.com/lucacataldo1106)
+**LinkedIn**: https://www.linkedin.com/in/luca-cataldo1106/
